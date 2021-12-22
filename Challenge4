@@ -1,0 +1,18 @@
+Challenge 4 - Power of Serverless
+< Previous Challenge - Home - Next Challenge >
+
+Description
+Access your Blueprint and check for role of serverless
+Create necessary Azure resources as required before starting with CI/CD Pipeline
+Automate your Serverless Deployment with Azure DevOps/Github Action workflow
+Ensure there are no secrets left in any code
+Ensure your deployments is aligned to solution Blueprint
+Success Criteria
+Demonstrate the role of Serverless in this challenge
+Ensure you are able to retrieve policy documents for insured users
+Explain your planned next step in alignment to solution blueprint
+Learning Resources
+Azure Function Hosting Options
+Azure Function Deployments
+Working with Azure Pipelines
+Working with Github Actions
