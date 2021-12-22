@@ -1,0 +1,15 @@
+Challenge 3 - Build and Deploy Frontend Website
+< Previous Challenge - Home - Next Challenge >
+
+Description
+Build Frontend Website and publish to Azure using Azure DevOps/Github Actions Workflow
+Ensure none of secrets are exposed or placed in your code
+Integrate Frontend Website with API Website
+Ensure your deployment is Aligned to Solution BluePrint
+Success Criteria
+Show Workflows used for Deployments
+Show Azure services created and deployed as part of this challenge
+Explain next step to be taken in alignment with Solution BluePrint
+Learning Resources
+Working with Azure Pipelines
+Working with Github Actions
